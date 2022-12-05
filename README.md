@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C#, Solidity, java**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, MongoDB, TypeScript, Sequelize**
-- 
+
 <div align="center">
 
 ## [Contact](https://portfolio-clementino-2023.vercel.app/#contact)
