@@ -5,13 +5,27 @@
 - 🌱 I’m currently learning **C#, Solidity, java**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, MongoDB, TypeScript, Sequelize**
+- 
+<div align="center">
 
-- 📫 How to reach me **alegreclementino@gmail.com**
+## [Contact](https://portfolio-clementino-2023.vercel.app/#contact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alegre-c/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/alegre-c/" height="30" width="40" /></a>
-</p>
+</div>
+
+💼 If you want to see some of my work please visit my [portfolio](https://portfolio-clementino-2023.vercel.app).
+
+📩 Email: alegreclementino@gmail.com
+
+<p>&nbsp;</p>
+
+<div align="center">
+
+### Follow me ❤️
+
+<a href="https://www.linkedin.com/in/alegre-c" target="_blank"><img height="25"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/tinoyao" target="_blank"><img height="25" src="https://img.shields.io/github/followers/ByronCorrea?style=social" target="_blank"></a>
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
