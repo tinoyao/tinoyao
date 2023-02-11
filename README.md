@@ -49,6 +49,6 @@
 <h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{tinoyao}/count.svg" alt="tinoyao :: Visitor's Count" /></p>
-<p>Thank you for watching!!!</p>
+<p>Thank you for watching!!</p>
 
 
