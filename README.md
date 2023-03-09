@@ -12,7 +12,7 @@
 
 </div>
 
-💼 If you want to see some of my work please visit my [portfolio](https://portfolio-clementino-2023.vercel.app).
+💼 If you want to see some of my work please visit my [portfolio](https://portfolio-tino.vercel.app).
 
 📩 Email: alegreclementino@gmail.com
 
