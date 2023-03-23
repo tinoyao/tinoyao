@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## [Contact](https://portfolio-clementino-2023.vercel.app/#contact)
+## [Contact](https://portfolio-tino.vercel.app/#contact)
 
 </div>
 
@@ -23,7 +23,7 @@
 ### Follow me ❤️
 
 <a href="https://www.linkedin.com/in/alegre-c" target="_blank"><img height="25"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/tinoyao" target="_blank"><img height="25" src="https://img.shields.io/github/followers/ByronCorrea?style=social" target="_blank"></a>
+<a href="https://github.com/tinoyao" target="_blank"><img height="25" src="https://img.shields.io/github/followers/tonoyao?style=social" target="_blank"></a>
 
 </div>
 
