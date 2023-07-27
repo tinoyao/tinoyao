@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clementino Alegre</h1>
 
-<h3 align="center">I am a 32-year-old Argentine who loves technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learning new technologies to exploit them. Programming caught my attention as a child but it was not until this year that I decided to study and discovered my passion for programming and i got a full stack web developer certification, i want to share with you my skills. Welcome!!!</h3>
+<h3 align="center">I am an Argentinian technology lover. Currently I'm focused on full stack web development, systems, AGILE methodologies, digital transformation and learning new technologies to exploit them. Programming caught my attention as a child but it was not until this year that I decided to study and discovered my passion for programming and i got a full stack web developer certification, i want to share with you my skills. Welcome!!!</h3>
 
 - 🌱 I’m currently learning **.NET, Solidity, java and PHP**
 
@@ -49,6 +49,6 @@
 <h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{tinoyao}/count.svg" alt="tinoyao :: Visitor's Count" /></p>
-<p>Thank you for watching!</p>
+<p>Thank you for watching!!!</p>
 
 
