@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an Argentinian technology lover. Currently I'm focused on full stack web development, systems, AGILE methodologies, digital transformation and learning new technologies to exploit them. Programming caught my attention as a child but it was not until this year that I decided to study and discovered my passion for programming and i got a full stack web developer certification, i want to share with you my skills. Welcome!!!</h3>
 
-- 🌱 I’m currently learning **.NET, Solidity, java and PHP**
+- 🌱 I’m currently learning **PHP and WordPress**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, MongoDB, TypeScript, Sequelize**
 
